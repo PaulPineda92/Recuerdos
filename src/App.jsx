@@ -1,9 +1,9 @@
 import { useState } from "react";
 
-import foto1 from "./assets/fotos/foto1.jpeg";
-import foto2 from "./assets/fotos/foto2.jpeg";
-import foto3 from "./assets/fotos/foto3.jpeg";
-import foto4 from "./assets/fotos/foto4.jpeg";
+import foto1 from "./assets/FOTOS/foto1.jpeg";
+import foto2 from "./assets/FOTOS/foto2.jpeg";
+import foto3 from "./assets/FOTOS/foto3.jpeg";
+import foto4 from "./assets/FOTOS/foto4.jpeg";
 const recuerdos = [
   {
     imagen: foto1,
